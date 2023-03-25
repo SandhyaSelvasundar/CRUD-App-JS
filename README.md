@@ -2,6 +2,6 @@
 * Developed CRUD App as a Student Record  
 * Used HTML, CSS, Javascript
 
-![alt text]("C:\Users\hp\Downloads\first1.png")  
+![Before creation of Record]("C:\Users\hp\Downloads\first1.png")  
 
-![alt text]("C:\Users\hp\Downloads\second2.png")  
+![After creation of Record]("C:\Users\hp\Downloads\second2.png")  
