@@ -1,6 +1,8 @@
-# CRUD-App-JS
+# [CRUD-App-JS](https://verdant-genie-e37177.netlify.app/)
 * Developed CRUD App as a Student Record  
-* Used HTML, CSS, Javascript  
+* Used HTML, CSS, Javascript
+
+# [Go to website](https://verdant-genie-e37177.netlify.app/)
 
 ![first1](https://user-images.githubusercontent.com/64412792/227722855-234c6698-685f-4dbb-b247-93d3e6b14763.png)  
 
