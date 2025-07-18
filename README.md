@@ -1,4 +1,4 @@
-# [CRUD-App-JS](https://verdant-genie-e37177.netlify.app/)
+# [CRUD-App-JS](https://just-fe-crud.netlify.app/)
 * Developed CRUD App as a Student Record  
 * Used HTML, CSS, Javascript
 
